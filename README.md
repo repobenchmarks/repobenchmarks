@@ -2,7 +2,13 @@
 
 Founder and technical publisher at **[RepoBenchmarks](https://www.repobenchmarks.com)** — an independent developer publication dedicated to open-source software, database architectures, container runbooks, and developer productivity tools.
 
-
+```text
+Name:       Nabil Massaoudi
+Role:       Founder & Technical Publisher at RepoBenchmarks
+Focus:      Linux Systems, Docker Stacks, Databases & CLI Performance
+Website:    https://www.repobenchmarks.com
+Contact:    editorial@repobenchmarks.com
+```
 
 ---
 
@@ -29,4 +35,4 @@ Founder and technical publisher at **[RepoBenchmarks](https://www.repobenchmarks
 ### 🌐 Official Links & Verification
 - 🌍 **Main Publication:** [repobenchmarks.com](https://www.repobenchmarks.com)
 - 🛡 **About & Disclosures:** [About RepoBenchmarks](https://www.repobenchmarks.com/p/about_01361173445.html)
-- 📬 **Editorial Contact:** 
+- 📬 **Editorial Contact:** `editorial@repobenchmarks.com`
