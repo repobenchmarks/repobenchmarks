@@ -34,5 +34,5 @@ Contact:    editorial@repobenchmarks.com
 
 ### 🌐 Official Links & Verification
 - 🌍 **Main Publication:** [repobenchmarks.com](https://www.repobenchmarks.com)
-- 🛡 **About & Disclosures:** [About RepoBenchmarks](https://www.repobenchmarks.com/p/about.html)
+- 🛡 **About & Disclosures:** [About RepoBenchmarks](https://www.repobenchmarks.com/p/about_01361173445.html)
 - 📬 **Editorial Contact:** `editorial@repobenchmarks.com`
